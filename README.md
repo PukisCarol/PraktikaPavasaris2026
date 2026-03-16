@@ -6,7 +6,7 @@ Products and order management program built with ASP.NET core, PostgreSQL databa
 
 For setup you should have:
 
-* Visual Studio
+* Visual Studio 2026
 * PostgreSQL
 * .NET 10 SDK
 
